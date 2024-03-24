@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (nothing yet! Gotta do some of my own learning first!)
 - 📫 How to reach me ... [nmlydon96@gmail.com](https://www.linkedin.com/in/nlydon/)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I've spent the past 5 years as a technology consultant.
 
 <!---
 nlydon/nlydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
